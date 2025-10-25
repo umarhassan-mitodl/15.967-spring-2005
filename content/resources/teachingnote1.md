@@ -4,8 +4,6 @@ description: This handout contains a series of questions related to the case stu
 file: /courses/15-967-managing-and-volunteering-in-the-non-profit-sector-spring-2005/03c348e80719c2f5e43b231f2573ccc2_teachingnote1.pdf
 file_size: 39877
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
